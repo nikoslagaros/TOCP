@@ -1,0 +1,5 @@
+C:\Users\nickvas\documents\visual studio 2010\Projects\OC\OC\bin\Debug\OC.exe
+C:\Users\nickvas\documents\visual studio 2010\Projects\OC\OC\bin\Debug\OC.pdb
+C:\Users\nickvas\documents\visual studio 2010\Projects\OC\OC\obj\x86\Debug\OC.csprojResolveAssemblyReference.cache
+C:\Users\nickvas\documents\visual studio 2010\Projects\OC\OC\obj\x86\Debug\OC.exe
+C:\Users\nickvas\documents\visual studio 2010\Projects\OC\OC\obj\x86\Debug\OC.pdb
